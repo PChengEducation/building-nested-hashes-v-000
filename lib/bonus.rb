@@ -21,6 +21,8 @@ def bonus
   }
 
   #code your solution here:
+epic_tragedy[:montague][hero][status].pop
+epic_tragedy[:montague][hero][status].push("dead")
 
   
 
